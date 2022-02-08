@@ -1,4 +1,4 @@
-# kick_cash
+# Flutter UI
 
 A new Flutter project.
 
